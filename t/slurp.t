@@ -16,7 +16,7 @@ END
 
 print "1..7\n";
 
-use File::Slurp;
+use File::OldSlurp;
 
 &write_file($tmp, $long);
 if (&read_file($tmp) eq $long) {print "ok 1\n";} else {print "not ok 1\n";}

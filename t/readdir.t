@@ -4,7 +4,7 @@
 $tmp = $ENV{'TMPDIR'} || $ENV{'TMP'} || $ENV{'TEMP'} || "/tmp";
 $tmp .= "/rdt$$";
 
-use File::Slurp;
+use File::OldSlurp;
 
 print "1..4\n";
 

@@ -10,7 +10,7 @@ require Exporter;
 use Carp;
 
 use vars qw($VERSION);
-$VERSION = 2003.1125;
+$VERSION = 2004.0430;
 
 sub read_file
 {

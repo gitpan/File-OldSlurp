@@ -6,3 +6,4 @@ OldSlurp.pm
 OldSlurp.pod
 t/slurp.t
 t/readdir.t
+META.yml                                 Module meta-data (added by MakeMaker)
