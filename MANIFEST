@@ -1,0 +1,8 @@
+MANIFEST
+CHANGELOG
+Makefile.PL
+README
+OldSlurp.pm
+OldSlurp.pod
+t/slurp.t
+t/readdir.t
